@@ -7,6 +7,8 @@ Hai hướng tiếp cận chính:
 
 ## Retrieval based
 
+![picture](https://github.com/nguyenvulebinh/shecode20/blob/master/retrieval_approach.png?raw=true)
+
 ### Biểu diễn văn bản dưới dạng vector
 Phương pháp đơn giản nhất là sử dụng Bag of Word (BoW) (Túi đựng Từ). BoW sẽ biểu diễn một văn bản dưới dạng một tập V các từ (V là toàn bộ từ trong từ điển) và bỏ qua các thông tin về trật tự của từ và ngữ pháp. Lấy ví dụ tập dữ liệu gồm 2 câu: 
 
@@ -24,5 +26,9 @@ Hai câu trong tập dữ liệu sẽ được biểu diễn dưới dạng vect
 
 ![picture](https://github.com/nguyenvulebinh/shecode20/blob/master/task_oriented_flow.png?raw=true)
 
+
+## Kết quả 
+
+![picture](https://github.com/nguyenvulebinh/shecode20/blob/master/chatbot_demo.png?raw=true)
 
 Link play around in [colab](https://colab.research.google.com/drive/1_KQkMqh6zxqUXO-Y9jzmqQ7efhAUfzaI?usp=sharing)
